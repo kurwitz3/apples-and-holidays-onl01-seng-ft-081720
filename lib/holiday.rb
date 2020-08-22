@@ -72,7 +72,7 @@ def all_holidays_with_bbq(holiday_hash)
 holiday.map do |holidays,list|
 
    if list.include?("BBQ")
-   bbq_holidays << holidays
+     holidays
 end
 end
  end
