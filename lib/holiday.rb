@@ -75,7 +75,7 @@ holiday.each do |holidays,list|
    bbq_holidays << holidays
 end
 end
- 
+ end
   # return an array of holiday names (as symbols) where supply lists
   # include the string "BBQ"
 
