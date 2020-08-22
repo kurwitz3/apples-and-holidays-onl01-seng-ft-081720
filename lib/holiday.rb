@@ -73,7 +73,7 @@ holiday.map do |holidays,list|
 
    if list.include?("BBQ")
    bbq_holidays << holidays
-
+end
 end
  end
   # return an array of holiday names (as symbols) where supply lists
